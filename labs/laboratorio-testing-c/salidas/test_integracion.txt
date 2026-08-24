@@ -1,0 +1,6 @@
+=== Tests de integracion ===
+[compra con descuento]
+  [FAIL] total => esperado 1300, obtenido 1100  (linea 27)
+  [FAIL] total_descuento => esperado 1170, obtenido 990  (linea 30)
+
+--- 0/2 tests OK, 2 FALLARON ---
